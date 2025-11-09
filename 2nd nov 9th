@@ -1,0 +1,10 @@
+-- also when ADDING NEW CHANGES after setting up git
+-- follow the guide below
+-- note "git pull" especially for collaboration projects as best practice
+
+Git add .
+
+Git commit -m “clear descriptn to track commits”
+(do this when it is a team work) Git pull – pull latest update
+
+Git push
